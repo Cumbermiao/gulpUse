@@ -1,0 +1,27 @@
+{
+  "name": "gulpuse",
+  "version": "1.0.0",
+  "description": "gulp学习使用",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cumbermiao/gulpUse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cumbermiao/gulpUse/issues"
+  },
+  "homepage": "https://github.com/Cumbermiao/gulpUse#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "gulp-less": "^3.5.0"
+  }
+}
